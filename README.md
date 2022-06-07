@@ -25,3 +25,5 @@ In this case, for example, ChannelID1 is the German chatroom and ChannelID4 is t
 
 
 > The bot only has to do the translation, it does not have to do the language assignment at the beginning.
+
+> Messages which are written by a bot may be ignored.
